@@ -1,0 +1,53 @@
+.inp{
+    margin-top: 30px;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+}
+.inp:focus{
+    border: none;
+    outline: none;
+}
+.center{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+.addtodo{
+    margin-left: 2%;
+    
+}
+.delete{
+    margin-left: 1%;
+}
+.h1{
+    text-align: center;
+}
+
+.img{
+    width: 60px;
+    height: 40px;
+}
+.maincontainer{
+    margin-top: 40px;
+    border: 5px solid black;    
+    background-color: white;
+    border-radius: 10px;
+    margin-left: 33%;
+    margin-right: 33%;
+    min-height: 400px;
+}
+
+.left{
+    list-style-type: circle;
+    margin-left: 15%;
+    margin-top: 50px;
+}
+.button{
+    margin-left: 5%;
+    margin-right: 2%;
+}
+.body{
+    background-color: black;
+}
